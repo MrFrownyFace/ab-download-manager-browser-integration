@@ -6,7 +6,7 @@
     "message": "No links detected"
   },
   "popup_alert_nothing_selected": {
-    "message": "Please first select a section"
+    "message": "Please first make a section"
   },
   "context_menu_download_with_abdm": {
     "message": "Download with AB DM"
@@ -33,7 +33,7 @@
     "message": "Auto Capture Links"
   },
   "config_auto_capture_links_description": {
-    "message": "When you click on a link on your browser it will automatically captured for download by the App"
+    "message": "When you click on a link in your browser it will automatically be captured for download by the App"
   },
   "reset_to_default": {
     "message": "Reset to default"
@@ -66,7 +66,7 @@
     "message": "Port"
   },
   "config_port_description": {
-    "message": "Make sure this port and the value in app are the same otherwise this extension will not work properly"
+    "message": "Make sure this port and the value in the app are the same otherwise this extension will not work properly"
   },
   "config_port_connection_success": {
     "message": "Success\nPort ($port$) Is connected",
@@ -96,10 +96,10 @@
     "message": "More Settings"
   },
   "connection_error_api_error": {
-    "message": "There is a problem with app api, make sure to update both app and extension to latest version"
+    "message": "There is a problem with the app api, make sure to update both the app and extension to the latest version"
   },
   "connection_error_network_error": {
-    "message": "Can't connect to application, please make sure the app is installed and running and also the Browser Integration is turned On in the application settings"
+    "message": "Can't connect to the application, please make sure the app is installed and running. Also ensure the Browser Integration feature is turned On in the application settings"
   },
   "settings": {
     "message": "Settings"
